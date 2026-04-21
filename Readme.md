@@ -5,7 +5,7 @@
 **Team NOVAS**
 **Members:**
 
-* Asif Qamar
+* Rahul Sood
 * Fatima Aslam
 * Aryan Jha
 * Souvik Majee
